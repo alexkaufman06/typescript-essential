@@ -1,0 +1,11 @@
+{
+  "name": "typescript-essential-training",
+  "version": "1.0.0",
+  "description": "Linda course on TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Kaufman",
+  "license": "ISC"
+}
